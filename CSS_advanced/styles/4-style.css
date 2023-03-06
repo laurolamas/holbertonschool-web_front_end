@@ -14,10 +14,10 @@ html{
 }
 body{
     color: val(--text-color);
+    font-family: var(--font-family-base);
 }
 a{
     color: val(--text-color);
-    font-family: var(--font-family-base);
 }
 .visually-hidden{
     display: none;
